@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/441gclark/CEE498PollutionVision/tree/gh-pages) branch hosts the contents of this directory at <https://441gclark.github.io/CEE498PollutionVision/>.
-The permalink for this webpage version is <https://441gclark.github.io/CEE498PollutionVision/v/97b294802ffcd39071b6e5b8ab59f60faf4be118/>.
+The permalink for this webpage version is <https://441gclark.github.io/CEE498PollutionVision/v/afcc3a4191d93dee6458a62ecb8b12f2deada859/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://441gclark.github.io/CEE498PollutionVision/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`97b294802ffcd39071b6e5b8ab59f60faf4be118`](https://github.com/441gclark/CEE498PollutionVision/commit/97b294802ffcd39071b6e5b8ab59f60faf4be118).
+[`afcc3a4191d93dee6458a62ecb8b12f2deada859`](https://github.com/441gclark/CEE498PollutionVision/commit/afcc3a4191d93dee6458a62ecb8b12f2deada859).
