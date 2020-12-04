@@ -4,7 +4,7 @@ author-meta:
 - Jane Roe
 bibliography:
 - content/manual-references.json
-date-meta: '2020-11-25'
+date-meta: '2020-12-04'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Manuscript Title" />
 
-  <meta name="dc.date" content="2020-11-25" />
+  <meta name="dc.date" content="2020-12-04" />
 
-  <meta name="citation_publication_date" content="2020-11-25" />
+  <meta name="citation_publication_date" content="2020-12-04" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -106,7 +106,7 @@ This manuscript
 ([permalink](https://441gclark.github.io/CEE498PollutionVision/v/afcc3a4191d93dee6458a62ecb8b12f2deada859/))
 was automatically generated
 from [441gclark/CEE498PollutionVision@afcc3a4](https://github.com/441gclark/CEE498PollutionVision/tree/afcc3a4191d93dee6458a62ecb8b12f2deada859)
-on November 25, 2020.
+on December 4, 2020.
 </em></small>
 
 ## Authors
